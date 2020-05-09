@@ -7,7 +7,7 @@
 
 # This is the debhelper compatibility version to use.
 # Note: debian/compat is the place to change this!
-#export DH_COMPAT=7
+#export DH_COMPAT=9
 
 
 

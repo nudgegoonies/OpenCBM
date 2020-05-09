@@ -7,7 +7,7 @@ Standards-Version: 3.7.2.1
 
 Package: opencbm-xa1541-module-KERNEL_VERSION
 Provides: opencbm-xa1541-module
-Architecture: i386
+Architecture: amd64
 Section: misc
 Description: Driver module for the Commodore serial IEC bus
  This driver provides access to serial IEC devices (C=1541 etc.)
